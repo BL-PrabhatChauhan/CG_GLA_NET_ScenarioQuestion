@@ -1,0 +1,63 @@
+# Ignore build results
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore Mac files
+.DS_Store
+
+# Ignore Windows thumbnail/cache files
+Thumbs.db
+ehthumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore compiled DLL/EXE files
+*.dll
+*.exe
+*.pdb
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Ignore published outputs
+*.publish/
+
+# Ignore test results
+TestResults/
+*.vspscc
+*.vssscc
+*.coverage
+*.coveragexml
+
+# Ignore ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore backup files
+*.bak
+*.old
+*.orig
+
+# Ignore environment-specific configs
+appsettings.Development.json
+secrets.json
+.env
+
