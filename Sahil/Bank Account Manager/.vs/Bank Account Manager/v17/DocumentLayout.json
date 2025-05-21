@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.net projects\\Bank Account Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750DB013-EBB2-455B-8383-FB31F2D0A244}|Bank Account Manager\\Bank Account Manager.csproj|c:\\.net projects\\bank account manager\\bank account manager\\mathutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750DB013-EBB2-455B-8383-FB31F2D0A244}|Bank Account Manager\\Bank Account Manager.csproj|solutionrelative:bank account manager\\mathutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750DB013-EBB2-455B-8383-FB31F2D0A244}|Bank Account Manager\\Bank Account Manager.csproj|c:\\.net projects\\bank account manager\\bank account manager\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750DB013-EBB2-455B-8383-FB31F2D0A244}|Bank Account Manager\\Bank Account Manager.csproj|solutionrelative:bank account manager\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750DB013-EBB2-455B-8383-FB31F2D0A244}|Bank Account Manager\\Bank Account Manager.csproj|c:\\.net projects\\bank account manager\\bank account manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750DB013-EBB2-455B-8383-FB31F2D0A244}|Bank Account Manager\\Bank Account Manager.csproj|solutionrelative:bank account manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathUtility.cs",
+              "DocumentMoniker": "C:\\.net projects\\Bank Account Manager\\Bank Account Manager\\MathUtility.cs",
+              "RelativeDocumentMoniker": "Bank Account Manager\\MathUtility.cs",
+              "ToolTip": "C:\\.net projects\\Bank Account Manager\\Bank Account Manager\\MathUtility.cs",
+              "RelativeToolTip": "Bank Account Manager\\MathUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:17:29.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\.net projects\\Bank Account Manager\\Bank Account Manager\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank Account Manager\\BankAccount.cs",
+              "ToolTip": "C:\\.net projects\\Bank Account Manager\\Bank Account Manager\\BankAccount.cs",
+              "RelativeToolTip": "Bank Account Manager\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:16:53.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.net projects\\Bank Account Manager\\Bank Account Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Bank Account Manager\\Program.cs",
+              "ToolTip": "C:\\.net projects\\Bank Account Manager\\Bank Account Manager\\Program.cs",
+              "RelativeToolTip": "Bank Account Manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:16:28.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
